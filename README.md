@@ -9,3 +9,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - clone this repository
 - run `npm install`
 - run `npm start`
+
+> Blog post https://scotch.io/tutorials/implementing-smooth-scrolling-in-react#toc-getting-started
